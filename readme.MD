@@ -28,9 +28,9 @@ I'm Renan Pereira but my friends also call me Duke! I'm a software developer fro
 
 <br />
 
-#### You can reach me on my socials, feel free to send me a message! :postbox:
+#### You can reach me on my socials, feel free to send me a message! :mailbox:
 
-[<img height="24px" src="https://img.shields.io/badge/-Youtube-000?&logo=Youtube" />][youtube] [<img height="24px" src="https://img.shields.io/badge/-Twitter-000?&logo=Twitter" />][twitter] [<img height="24px" src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram" />][instagram] [<img height="24px" src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn" />][linkedin]
+[<img height="24px" src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn" />][linkedin] [<img height="24px" src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram" />][instagram] [<img height="24px" src="https://img.shields.io/badge/-Twitter-000?&logo=Twitter" />][twitter] [<img height="24px" src="https://img.shields.io/badge/-Youtube-000?&logo=Youtube" />][youtube]
 
 <br />
 
