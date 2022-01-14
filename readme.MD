@@ -6,36 +6,17 @@ I'm Renan Pereira but my friends also call me Duke. I'm a software developer fro
 
 Code :computer:
 
-<img height="26px" src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" />
-<img height="26px" src="https://img.shields.io/badge/-Sass-000?&logo=Sass" />
-<img height="26px" src="https://img.shields.io/badge/-Javascript-000?&logo=Javascript" />
-<img height="26px" src="https://img.shields.io/badge/-Node-000?&logo=nodedotjs" />
-<img height="26px" src="https://img.shields.io/badge/-React-000?&logo=React" />
-<img height="26px" src="https://img.shields.io/badge/-Next-000?&logo=Nextdotjs" />
-
-<br />
+<img height="26px" src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" /> <img height="26px" src="https://img.shields.io/badge/-Sass-000?&logo=Sass" /> <img height="26px" src="https://img.shields.io/badge/-Javascript-000?&logo=Javascript" /> <img height="26px" src="https://img.shields.io/badge/-Node-000?&logo=nodedotjs" /> <img height="26px" src="https://img.shields.io/badge/-React-000?&logo=React" /> <img height="26px" src="https://img.shields.io/badge/-Next-000?&logo=Nextdotjs" />
 <br />
 
 Tools :wrench:
 
-<img height="26px" src="https://img.shields.io/badge/-MongoDB-000?&logo=Mongodb" />
-<img height="26px" src="https://img.shields.io/badge/-Azure DevOps-000?&logo=Azuredevops" />
-<img height="26px" src="https://img.shields.io/badge/-Git-000?&logo=Git" />
-<img height="26px" src="https://img.shields.io/badge/-Github-000?&logo=Github" />
-
-<br />
+<img height="26px" src="https://img.shields.io/badge/-MongoDB-000?&logo=Mongodb" /> <img height="26px" src="https://img.shields.io/badge/-Azure DevOps-000?&logo=Azuredevops" /> <img height="26px" src="https://img.shields.io/badge/-Git-000?&logo=Git" /> <img height="26px" src="https://img.shields.io/badge/-Github-000?&logo=Github" />
 <br />
 
 Stuff I'm learning :mag_right:
 
-<img height="26px" src="https://img.shields.io/badge/-Typescript-000?&logo=Typescript" />
-<img height="26px" src="https://img.shields.io/badge/-Jest-000?&logo=Jest" />
-<img height="26px" src="https://img.shields.io/badge/-MaterialUI-000?&logo=MUI" />
-<img height="26px" src="https://img.shields.io/badge/-AntDesign-000?&logo=Antdesign" />
-<img height="26px" src="https://img.shields.io/badge/-ChakraUI-000?&logo=Chakraui" />
-<img height="26px" src="https://img.shields.io/badge/-Auth0-000?&logo=Auth0" />
-
-<br />
+<img height="26px" src="https://img.shields.io/badge/-Typescript-000?&logo=Typescript" /> <img height="26px" src="https://img.shields.io/badge/-Jest-000?&logo=Jest" /> <img height="26px" src="https://img.shields.io/badge/-MaterialUI-000?&logo=MUI" /> <img height="26px" src="https://img.shields.io/badge/-AntDesign-000?&logo=Antdesign" /> <img height="26px" src="https://img.shields.io/badge/-ChakraUI-000?&logo=Chakraui" /> <img height="26px" src="https://img.shields.io/badge/-Auth0-000?&logo=Auth0" />
 <br />
 
 ### :point_down: You can check my website here
