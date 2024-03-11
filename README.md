@@ -1,6 +1,6 @@
 # Hey there 👋
 
-My name is Renan Pereira but my friends also call me Duke! I'm a fullstack developer currently working for Jalasoft.
+My name is Renan Pereira! I'm a fullstack developer currently working for Jalasoft.
 
 <br />
 
@@ -26,8 +26,6 @@ You can check more about me on my website here
 
 [![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pereira-renan&layout=compact&theme=dark&count_private=true&hide=prs,issues&hide_border=true)](https://github.com/pereira-renan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereira-renan&layout=compact&theme=dark&hide_border=true)](https://github.com/pereira-renan/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pereira-renan.pereira-renan&left_color=black&right_color=brightgreen)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pereira-renan&layout=compact&theme=dark&hide_border=true)](https://github.com/pereira-renan/github-readme-stats)
 
 [website]: https://renanpereira.com
